@@ -1,0 +1,41 @@
+Functions
+callback
+arrow function
+
+json
+array
+json array
+
+array function
+map
+foreach
+filter
+
+promise then
+async await
+
+internal <script>
+
+external js
+
+client side programming / languge
+	browser -->client ==> browser --->
+	java script is client script webpage --> html
+server side programing / language
+
+java script is dynamcically typed language:
+
+statically typed lang
+	we need to define data type to declare variable....
+	int a =10
+dyn
+	we need to define data type to declare variable....
+	
+	js 3 keyword
+	var let const'
+
+browsser has engine :
+chrome v8
+firefox spider monkey
+edge chakra
+safari 
