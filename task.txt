@@ -3,4 +3,41 @@ country json
 user
 product -->10
 
-
+IPL ={
+    teams:[
+        {
+            name:"CSK",
+            captain:"Dhoni",
+            coach:"Fleming",
+            players:[
+                {
+                    name:"Raina",
+                    age:34,
+                    role:"Batsman"
+                },
+                {
+                    name:"Jadeja",
+                    age:32,
+                    role:"All Rounder"
+                }
+            ]
+        },
+        {
+            name:"CSK",
+            captain:"Dhoni",
+            coach:"Fleming",
+            players:[
+                {
+                    name:"Raina",
+                    age:34,
+                    role:"Batsman"
+                },
+                {
+                    name:"Jadeja",
+                    age:32,
+                    role:"All Rounder"
+                }
+            ]
+        }
+    ]
+}
