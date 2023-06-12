@@ -41,3 +41,39 @@ IPL ={
         }
     ]
 }
+
+
+
+trascations =[
+    {
+        type:"debit",
+        amount:1000,
+        mode:"card",
+        date:"2021-05-01",
+        status:"success"
+    },
+    {
+        type:"credt",
+        amount:20000,
+        mode:"upi",
+        date:"2021-05-01",
+        status:"success"
+    },
+    {
+        type:"debit",
+        amount:25000,
+        mode:"NEFT",
+        date:"2021-05-01",
+        status:"fail"
+    },
+]
+
+///find total amount of trascations in single moth
+//find total amount of trascations in single day
+//find total success trascations
+//find total fail trascations
+//find total debit trascations 
+//find total credit trascations
+//find remaining balance
+
+
