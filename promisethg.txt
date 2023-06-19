@@ -1,0 +1,14 @@
+non syncronize
+syncronize
+
+x =100 -->
+x =200 -->
+x =300
+
+
+api call --> 5 sec
+console.log('api call done') promise then catch --> , async await
+
+
+promise -->pending, resolve, reject
+Promise class
